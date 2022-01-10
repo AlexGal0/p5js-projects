@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+/* For centering canvas */
+body { 
+  background-color: rgb(92 92 92);
+  display: flex; 
+  justify-content: center;
+  align-content: center;
+}
+
+
+main {
+  margin-top: 200px;
+}
