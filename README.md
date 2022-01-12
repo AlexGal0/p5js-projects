@@ -1,7 +1,10 @@
 # p5js-projects
- - Game of Life
- - Koch snowflake
+ - Game of Life.
+ - Koch snowflake.
+ - Fractal Plant.
 # To Do List
  - Optimice Game of Life.
- - Fractal Plant (https://en.wikipedia.org/wiki/L-system#Example_7:_Fractal_plant)
  - Langton's ant
+ - Gosper curve (https://en.wikipedia.org/wiki/Gosper_curve).
+ - Lévy C curve.
+ 
